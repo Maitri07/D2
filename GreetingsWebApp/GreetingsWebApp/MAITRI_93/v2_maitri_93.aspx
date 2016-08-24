@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="v1_maitri_93.aspx.cs" Inherits="GreetingsWebApp.MAITRI_93.v1_maitri_93" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="v2_maitri_93.aspx.cs" Inherits="GreetingsWebApp.MAITRI_93.v2_maitri_93" %>
 
 <!DOCTYPE html>
 
@@ -39,7 +39,7 @@ Height="150px" /><br /><br /><br />
 <asp:Image ID="imgDefault" runat="server" Width="212px"
 Height="160px" />
 </asp:Panel>
-    </div>
+    
     </form>
 </body>
 </html>

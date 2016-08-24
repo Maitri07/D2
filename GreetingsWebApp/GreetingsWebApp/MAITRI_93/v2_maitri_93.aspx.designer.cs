@@ -10,7 +10,7 @@
 namespace GreetingsWebApp.MAITRI_93 {
     
     
-    public partial class v1_maitri_93 {
+    public partial class v2_maitri_93 {
         
         /// <summary>
         /// form1 control.
